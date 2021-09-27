@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 
 ![Screenshot](hw2-screenshot.PNG)
 
